@@ -1,2 +1,0 @@
-//forTest
-//Warning:(2, 11) Variable initializer is redundant
