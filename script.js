@@ -1,7 +1,7 @@
 //изменения для commit
-let num = 10
-let num2 = 10
-num = 20
+let num = 1000
+let num2 = 100
+
 
 let sum = num2 + num
 console.table(sum)
